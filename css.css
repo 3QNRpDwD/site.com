@@ -1,7 +1,15 @@
 body {
-    font-family: 'Fira Code';
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
     padding: 50px;
     background-color: #f4f4f4;
     font-size: 22px;
+    margin: 0;
 }
+
+.container { 
+    margin: 49px auto 39px auto; 
+    width: 599px;
+}
+
+    
